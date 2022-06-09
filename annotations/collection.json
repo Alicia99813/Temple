@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Alicia99813.github.io/Temple/annotations/TempleNew.json" ],
+  "@id" : "https://Alicia99813.github.io/Temple/annotations/collection.json",
+  "label" : "All annotations loaded in Alicia99813/Temple project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
